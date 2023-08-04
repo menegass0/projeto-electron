@@ -1,0 +1,23 @@
+{
+  "name": "projeto-electron",
+  "version": "1.0.0",
+  "description": "nao sei o rumo ainda",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menegass0/projeto-electron.git"
+  },
+  "author": "jaozin_farofa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menegass0/projeto-electron/issues"
+  },
+  "homepage": "https://github.com/menegass0/projeto-electron#readme",
+  "devDependencies": {
+    "electron": "^25.4.0"
+  }
+}
